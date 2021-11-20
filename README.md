@@ -1,7 +1,25 @@
-我不會寫程式
+# About Me
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ppodds)](https://github.com/ryo-ma/github-profile-trophy)
+- A CS major student from Taiwan
+- Write some articles on my [blog](https://ppodds.github.io/)
+- Learn more about me on my [website](https://ppodds.website/) (Chinese)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ppodds&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+## 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ppodds" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ppodds&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppodds&hide=html,css&layout=compact&langs_count=10" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppodds)](https://github.com/anuraghazra/github-readme-stats)
+## Contact
+
+- [Telegram](https://t.me/ppodds)
+- [Email](mailto:oscar20020629@gmail.com)
+
+
+
+
