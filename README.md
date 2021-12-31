@@ -18,12 +18,12 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ppodds&count_private=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppodds&hide=html,css&layout=compact&langs_count=10" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ppodds&layout=compact" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ppodds&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppodds&hide=html,css&layout=compact&langs_count=10" />
   </a>
 </p>
 
