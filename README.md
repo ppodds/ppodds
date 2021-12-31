@@ -1,4 +1,6 @@
 # About Me
+[![wakatime](https://wakatime.com/badge/user/b6e14b3c-b930-4f7f-9f3d-e3ecf3174bb6.svg)](https://wakatime.com/@b6e14b3c-b930-4f7f-9f3d-e3ecf3174bb6)
+![Profile views](https://gpvc.arturio.dev/ppodds)
 
 - A CS major student from Taiwan
 - Write some articles on my [blog](https://ppodds.github.io/)
