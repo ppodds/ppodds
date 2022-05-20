@@ -8,26 +8,24 @@
 
 ## 
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="95%" align="center" src="https://github-profile-trophy.vercel.app/?username=ppodds&row=1" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ppodds&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ppodds&layout=compact" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppodds&hide=html,css&layout=compact&langs_count=10" />
-  </a>
-</p>
-
-
+<a href="https://github.com/ppodds">
+  <img align="center" width="100%" src="./header.svg" />
+</a>
+<a href="https://github.com/ppodds">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
+<a href="https://github.com/ppodds">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/ppodds">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
+<a href="https://github.com/ppodds">
+  <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
+<a href="https://github.com/ppodds">
+  <img align="right" src="./metadata.svg" />
+</a>
 
 ## Contact
 
