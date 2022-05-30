@@ -31,6 +31,7 @@
 
 - [Telegram](https://t.me/ppodds)
 - [Email](mailto:oscar20020629@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/hung-yi-liu-a05b9521b/)
 
 
 
