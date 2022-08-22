@@ -3,8 +3,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=ppodds)
 
 - A CS major student from Taiwan
-- Write some articles on my [blog](https://blog.ppodds.website/) (Chinese)
-- Learn more about me on my [website](https://ppodds.website/) (Chinese)
+- Write some articles on my [blog](https://blog.ppodds.cc/) (Chinese)
+- Learn more about me on my [website](https://ppodds.cc/) (Chinese)
 
 ## 
 
